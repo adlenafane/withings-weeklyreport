@@ -1,0 +1,23 @@
+{
+  "name": "weekly-report",
+  "version": "1.0.0",
+  "description": "Weekly Report for Withings",
+  "main": "index.js",
+  "scripts": {
+    "start": "lr-http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adlenafane/withings-weeklyreport.git"
+  },
+  "author": "Adlen Afane <adlen.afane@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adlenafane/withings-weeklyreport/issues"
+  },
+  "homepage": "https://github.com/adlenafane/withings-weeklyreport#readme",
+  "devDependencies": {
+    "lr-http-server": "~0.1.5"
+  }
+}

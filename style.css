@@ -1,0 +1,1170 @@
+@font-face {
+    font-family: 'HMIconFont';
+    src:    url('fonts/HMIconFont.eot?n631s4');
+    src:    url('fonts/HMIconFont.eot?n631s4#iefix') format('embedded-opentype'),
+        url('fonts/HMIconFont.woff2?n631s4') format('woff2'),
+        url('fonts/HMIconFont.ttf?n631s4') format('truetype'),
+        url('fonts/HMIconFont.woff?n631s4') format('woff'),
+        url('fonts/HMIconFont.svg?n631s4#HMIconFont') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="HM"], [class*=" HM"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'HMIconFont' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.HMIcons_airquality:before {
+    content: "\e900";
+}
+.HMIcons_airquality2:before {
+    content: "\e901";
+}
+.HMIcons_baby1:before {
+    content: "\e902";
+}
+.HMIcons_baby2:before {
+    content: "\e903";
+}
+.HMIcons_badges1:before {
+    content: "\e904";
+}
+.HMIcons_badges2:before {
+    content: "\e905";
+}
+.HMIcons_bell:before {
+    content: "\e906";
+}
+.HMIcons_bell2:before {
+    content: "\e907";
+}
+.HMIcons_book:before {
+    content: "\e908";
+}
+.HMIcons_book2:before {
+    content: "\e909";
+}
+.HMIcons_bug1:before {
+    content: "\e90a";
+}
+.HMIcons_bug2:before {
+    content: "\e90b";
+}
+.HMIcons_cal:before {
+    content: "\e90c";
+}
+.HMIcons_cal2:before {
+    content: "\e90d";
+}
+.HMIcons_cart:before {
+    content: "\e90e";
+}
+.HMIcons_cart2:before {
+    content: "\e90f";
+}
+.HMIcons_cup:before {
+    content: "\e910";
+}
+.HMIcons_cup2:before {
+    content: "\e911";
+}
+.HMIcons_day:before {
+    content: "\e912";
+}
+.HMIcons_day2:before {
+    content: "\e913";
+}
+.HMIcons_device:before {
+    content: "\e914";
+}
+.HMIcons_device2:before {
+    content: "\e915";
+}
+.HMIcons_dnd1:before {
+    content: "\e916";
+}
+.HMIcons_dnd2:before {
+    content: "\e917";
+}
+.HMIcons_feather:before {
+    content: "\e918";
+}
+.HMIcons_feather2:before {
+    content: "\e919";
+}
+.HMIcons_heart:before {
+    content: "\e91a";
+}
+.HMIcons_heart2:before {
+    content: "\e91b";
+}
+.HMIcons_home1:before {
+    content: "\e91c";
+}
+.HMIcons_home2:before {
+    content: "\e91d";
+}
+.HMIcons_hr:before {
+    content: "\e91e";
+}
+.HMIcons_hr2:before {
+    content: "\e91f";
+}
+.HMIcons_lab1:before {
+    content: "\e920";
+}
+.HMIcons_lab2:before {
+    content: "\e921";
+}
+.HMIcons_leaderboard:before {
+    content: "\e922";
+}
+.HMIcons_leaderboard2:before {
+    content: "\e923";
+}
+.HMIcons_light:before {
+    content: "\e924";
+}
+.HMIcons_light2:before {
+    content: "\e925";
+}
+.HMIcons_mail:before {
+    content: "\e926";
+}
+.HMIcons_mail2:before {
+    content: "\e927";
+}
+.HMIcons_man:before {
+    content: "\e928";
+}
+.HMIcons_man2:before {
+    content: "\e929";
+}
+.HMIcons_month:before {
+    content: "\e92a";
+}
+.HMIcons_month2:before {
+    content: "\e92b";
+}
+.HMIcons_pen:before {
+    content: "\e92c";
+}
+.HMIcons_pen2:before {
+    content: "\e92d";
+}
+.HMIcons_photoalbum1:before {
+    content: "\e92e";
+}
+.HMIcons_photoalbum2:before {
+    content: "\e92f";
+}
+.HMIcons_pie:before {
+    content: "\e930";
+}
+.HMIcons_pie2:before {
+    content: "\e931";
+}
+.HMIcons_plan1:before {
+    content: "\e932";
+}
+.HMIcons_plan2:before {
+    content: "\e933";
+}
+.HMIcons_position:before {
+    content: "\e934";
+}
+.HMIcons_position2:before {
+    content: "\e935";
+}
+.HMIcons_pressure:before {
+    content: "\e936";
+}
+.HMIcons_pressure2:before {
+    content: "\e937";
+}
+.HMIcons_privacy1:before {
+    content: "\e938";
+}
+.HMIcons_privacy2:before {
+    content: "\e939";
+}
+.HMIcons_profile:before {
+    content: "\e93a";
+}
+.HMIcons_profile2:before {
+    content: "\e93b";
+}
+.HMIcons_rocket:before {
+    content: "\e93c";
+}
+.HMIcons_rocket2:before {
+    content: "\e93d";
+}
+.HMIcons_settings:before {
+    content: "\e93e";
+}
+.HMIcons_settings2:before {
+    content: "\e93f";
+}
+.HMIcons_settingsmall:before {
+    content: "\e940";
+}
+.HMIcons_settingsmall2:before {
+    content: "\e941";
+}
+.HMIcons_share2:before {
+    content: "\e942";
+}
+.HMIcons_share3:before {
+    content: "\e943";
+}
+.HMIcons_star3:before {
+    content: "\e944";
+}
+.HMIcons_star4:before {
+    content: "\e945";
+}
+.HMIcons_team1:before {
+    content: "\e946";
+}
+.HMIcons_team2:before {
+    content: "\e947";
+}
+.HMIcons_time:before {
+    content: "\e948";
+}
+.HMIcons_time2:before {
+    content: "\e949";
+}
+.HMIcons_week:before {
+    content: "\e94a";
+}
+.HMIcons_week2:before {
+    content: "\e94b";
+}
+.HMIcons_woman:before {
+    content: "\e94c";
+}
+.HMIcons_woman2:before {
+    content: "\e94d";
+}
+.HMIcons_bch:before {
+    content: "\ea7a";
+}
+.HMIcons_android:before {
+    content: "\e94e";
+}
+.HMIcons_apple:before {
+    content: "\e94f";
+}
+.HMIcons_facebook:before {
+    content: "\e950";
+}
+.HMIcons_facebook2:before {
+    content: "\e951";
+}
+.HMIcons_google:before {
+    content: "\e952";
+}
+.HMIcons_google2:before {
+    content: "\e953";
+}
+.HMIcons_homelogo:before {
+    content: "\e954";
+}
+.HMIcons_nikefuel:before {
+    content: "\e955";
+}
+.HMIcons_nikeplus:before {
+    content: "\e956";
+}
+.HMIcons_spotify:before {
+    content: "\e957";
+}
+.HMIcons_spotify2:before {
+    content: "\e958";
+}
+.HMIcons_twitter:before {
+    content: "\e959";
+}
+.HMIcons_twitter2:before {
+    content: "\e95a";
+}
+.HMIcons_withingslogo:before {
+    content: "\e95b";
+}
+.HMIcons_withingslogo2:before {
+    content: "\e95c";
+}
+.HMIcons_withingslogofull:before {
+    content: "\e95d";
+}
+.HMIcons_withingslogosmall:before {
+    content: "\e95e";
+}
+.HMIcons_goscreen:before {
+    content: "\e95f";
+}
+.HMIcons_intdrag1:before {
+    content: "\e960";
+}
+.HMIcons_intdrag2:before {
+    content: "\e961";
+}
+.HMIcons_introtate:before {
+    content: "\e962";
+}
+.HMIcons_introtate2:before {
+    content: "\e963";
+}
+.HMIcons_intswipe:before {
+    content: "\e964";
+}
+.HMIcons_intswipeleft:before {
+    content: "\e965";
+}
+.HMIcons_intswiperight:before {
+    content: "\e966";
+}
+.HMIcons_intzoom:before {
+    content: "\e967";
+}
+.HMIcons_phonerotate:before {
+    content: "\e968";
+}
+.HMIcons_whours:before {
+    content: "\e969";
+}
+.HMIcons_wminutes:before {
+    content: "\e96a";
+}
+.HMIcons_wmotion:before {
+    content: "\e96b";
+}
+.HMIcons_alarmclock1:before {
+    content: "\e96c";
+}
+.HMIcons_alarmclock2:before {
+    content: "\e96d";
+}
+.HMIcons_baby3:before {
+    content: "\e96e";
+}
+.HMIcons_baby4:before {
+    content: "\e96f";
+}
+.HMIcons_bell3:before {
+    content: "\e970";
+}
+.HMIcons_bell4:before {
+    content: "\e971";
+}
+.HMIcons_bof1:before {
+    content: "\e972";
+}
+.HMIcons_bof2:before {
+    content: "\e973";
+}
+.HMIcons_bt1:before {
+    content: "\e974";
+}
+.HMIcons_bt2:before {
+    content: "\e975";
+}
+.HMIcons_cup3:before {
+    content: "\e976";
+}
+.HMIcons_cup4:before {
+    content: "\e977";
+}
+.HMIcons_dnd3:before {
+    content: "\e978";
+}
+.HMIcons_dnd4:before {
+    content: "\e979";
+}
+.HMIcons_downrd:before {
+    content: "\e97a";
+}
+.HMIcons_downrd2:before {
+    content: "\e97b";
+}
+.HMIcons_earth:before {
+    content: "\e97c";
+}
+.HMIcons_earth2:before {
+    content: "\e97d";
+}
+.HMIcons_ethernet1:before {
+    content: "\e97e";
+}
+.HMIcons_ethernet2:before {
+    content: "\e97f";
+}
+.HMIcons_flatrd:before {
+    content: "\e980";
+}
+.HMIcons_flatrd2:before {
+    content: "\e981";
+}
+.HMIcons_food1:before {
+    content: "\e982";
+}
+.HMIcons_food2:before {
+    content: "\e983";
+}
+.HMIcons_happy1:before {
+    content: "\e984";
+}
+.HMIcons_happy2:before {
+    content: "\e985";
+}
+.HMIcons_help:before {
+    content: "\e986";
+}
+.HMIcons_help2:before {
+    content: "\e987";
+}
+.HMIcons_info:before {
+    content: "\e988";
+}
+.HMIcons_info2:before {
+    content: "\e989";
+}
+.HMIcons_insights1:before {
+    content: "\e98a";
+}
+.HMIcons_insights2:before {
+    content: "\e98b";
+}
+.HMIcons_lightening:before {
+    content: "\e98c";
+}
+.HMIcons_lightening2:before {
+    content: "\e98d";
+}
+.HMIcons_lowbat1:before {
+    content: "\e98e";
+}
+.HMIcons_lowbat2:before {
+    content: "\e98f";
+}
+.HMIcons_man3:before {
+    content: "\e990";
+}
+.HMIcons_man4:before {
+    content: "\e991";
+}
+.HMIcons_mdownrd:before {
+    content: "\e992";
+}
+.HMIcons_mdownrd2:before {
+    content: "\e993";
+}
+.HMIcons_message:before {
+    content: "\e994";
+}
+.HMIcons_message2:before {
+    content: "\e995";
+}
+.HMIcons_minusrd:before {
+    content: "\e996";
+}
+.HMIcons_minusrd2:before {
+    content: "\e997";
+}
+.HMIcons_mouaip1:before {
+    content: "\e998";
+}
+.HMIcons_mouaip2:before {
+    content: "\e999";
+}
+.HMIcons_muprd:before {
+    content: "\e99a";
+}
+.HMIcons_muprd2:before {
+    content: "\e99b";
+}
+.HMIcons_next:before {
+    content: "\e99c";
+}
+.HMIcons_next2:before {
+    content: "\e99d";
+}
+.HMIcons_nok:before {
+    content: "\e99e";
+}
+.HMIcons_nok2:before {
+    content: "\e99f";
+}
+.HMIcons_ok:before {
+    content: "\e9a0";
+}
+.HMIcons_ok2:before {
+    content: "\e9a1";
+}
+.HMIcons_people1:before {
+    content: "\e9a2";
+}
+.HMIcons_people2:before {
+    content: "\e9a3";
+}
+.HMIcons_peopleadd:before {
+    content: "\e9a4";
+}
+.HMIcons_peoplecheck:before {
+    content: "\e9a5";
+}
+.HMIcons_peopleedit:before {
+    content: "\e9a6";
+}
+.HMIcons_peopleforget:before {
+    content: "\e9a7";
+}
+.HMIcons_plusrd:before {
+    content: "\e9a8";
+}
+.HMIcons_plusrd2:before {
+    content: "\e9a9";
+}
+.HMIcons_prev:before {
+    content: "\e9aa";
+}
+.HMIcons_prev2:before {
+    content: "\e9ab";
+}
+.HMIcons_privacy3:before {
+    content: "\e9ac";
+}
+.HMIcons_privacy4:before {
+    content: "\e9ad";
+}
+.HMIcons_robot1:before {
+    content: "\e9ae";
+}
+.HMIcons_robot2:before {
+    content: "\e9af";
+}
+.HMIcons_roundedheart:before {
+    content: "\e9b0";
+}
+.HMIcons_roundedheart2:before {
+    content: "\e9b1";
+}
+.HMIcons_roundedrun:before {
+    content: "\e9b2";
+}
+.HMIcons_roundedrun2:before {
+    content: "\e9b3";
+}
+.HMIcons_roundedwalk:before {
+    content: "\e9b4";
+}
+.HMIcons_roundedwalk2:before {
+    content: "\e9b5";
+}
+.HMIcons_roundmore:before {
+    content: "\e9b6";
+}
+.HMIcons_roundmore2:before {
+    content: "\e9b7";
+}
+.HMIcons_sad1:before {
+    content: "\e9b8";
+}
+.HMIcons_sad2:before {
+    content: "\e9b9";
+}
+.HMIcons_star:before {
+    content: "\e9ba";
+}
+.HMIcons_star2:before {
+    content: "\e9bb";
+}
+.HMIcons_target1:before {
+    content: "\e9bc";
+}
+.HMIcons_target2:before {
+    content: "\e9bd";
+}
+.HMIcons_uprd:before {
+    content: "\e9be";
+}
+.HMIcons_uprd2:before {
+    content: "\e9bf";
+}
+.HMIcons_usb1:before {
+    content: "\e9c0";
+}
+.HMIcons_usb2:before {
+    content: "\e9c1";
+}
+.HMIcons_warning:before {
+    content: "\e9c2";
+}
+.HMIcons_warning2:before {
+    content: "\e9c3";
+}
+.HMIcons_wifi1:before {
+    content: "\e9c4";
+}
+.HMIcons_wifi2:before {
+    content: "\e9c5";
+}
+.HMIcons_woa1:before {
+    content: "\e9c6";
+}
+.HMIcons_woa2:before {
+    content: "\e9c7";
+}
+.HMIcons_woman3:before {
+    content: "\e9c8";
+}
+.HMIcons_woman4:before {
+    content: "\e9c9";
+}
+.HMIcons_delete:before {
+    content: "\e9e0";
+}
+.HMIcons_zoom:before {
+    content: "\ea27";
+}
+.HMIcons_zoomout:before {
+    content: "\ea28";
+}
+.HMIcons_pict:before {
+    content: "\ea00";
+}
+.HMIcons_search:before {
+    content: "\ea08";
+}
+.HMIcons_mic:before {
+    content: "\e9f7";
+}
+.HMIcons_update:before {
+    content: "\ea20";
+}
+.HMIcons_sync:before {
+    content: "\ea18";
+}
+.HMIcons_music:before {
+    content: "\e9fa";
+}
+.HMIcons_nightlight:before {
+    content: "\e9fc";
+}
+.HMIcons_lock:before {
+    content: "\e9f2";
+}
+.HMIcons_location:before {
+    content: "\e9f1";
+}
+.HMIcons_share:before {
+    content: "\ea0b";
+}
+.HMIcons_import:before {
+    content: "\e9ea";
+}
+.HMIcons_curve:before {
+    content: "\e9df";
+}
+.HMIcons_histo:before {
+    content: "\e9e9";
+}
+.HMIcons_magic:before {
+    content: "\e9f3";
+}
+.HMIcons_more:before {
+    content: "\e9f9";
+}
+.HMIcons_overview:before {
+    content: "\e9fd";
+}
+.HMIcons_grip:before {
+    content: "\e9e8";
+}
+.HMIcons_list:before {
+    content: "\e9f0";
+}
+.HMIcons_menu2:before {
+    content: "\e9f5";
+}
+.HMIcons_menu:before {
+    content: "\e9f4";
+}
+.HMIcons_settings3:before {
+    content: "\ea0a";
+}
+.HMIcons_edit:before {
+    content: "\e9e3";
+}
+.HMIcons_edit2:before {
+    content: "\e9e4";
+}
+.HMIcons_plus:before {
+    content: "\ea03";
+}
+.HMIcons_check:before {
+    content: "\e9dd";
+}
+.HMIcons_close:before {
+    content: "\e9de";
+}
+.HMIcons_empty:before {
+    content: "\e9e5";
+}
+.HMIcons_battery0:before {
+    content: "\e9cc";
+}
+.HMIcons_battery1:before {
+    content: "\e9cd";
+}
+.HMIcons_battery2:before {
+    content: "\e9ce";
+}
+.HMIcons_battery3:before {
+    content: "\e9cf";
+}
+.HMIcons_battery4:before {
+    content: "\e9d0";
+}
+.HMIcons_battery5:before {
+    content: "\e9d1";
+}
+.HMIcons_battery6:before {
+    content: "\e9d2";
+}
+.HMIcons_battery7:before {
+    content: "\e9d3";
+}
+.HMIcons_battery8:before {
+    content: "\e9d4";
+}
+.HMIcons_battery9:before {
+    content: "\e9d5";
+}
+.HMIcons_battery10:before {
+    content: "\e9d6";
+}
+.HMIcons_battery11:before {
+    content: "\e9d7";
+}
+.HMIcons_cam:before {
+    content: "\e9d8";
+}
+.HMIcons_cam2:before {
+    content: "\e9d9";
+}
+.HMIcons_cam3:before {
+    content: "\e9da";
+}
+.HMIcons_cam4:before {
+    content: "\e9db";
+}
+.HMIcons_voldown:before {
+    content: "\ea24";
+}
+.HMIcons_volup:before {
+    content: "\ea25";
+}
+.HMIcons_lightdown:before {
+    content: "\e9ee";
+}
+.HMIcons_lightup:before {
+    content: "\e9ef";
+}
+.HMIcons_next30:before {
+    content: "\e9fb";
+}
+.HMIcons_prev30:before {
+    content: "\ea04";
+}
+.HMIcons_pause:before {
+    content: "\e9fe";
+}
+.HMIcons_play:before {
+    content: "\ea01";
+}
+.HMIcons_stop:before {
+    content: "\ea14";
+}
+.HMIcons_rewind:before {
+    content: "\ea05";
+}
+.HMIcons_forward:before {
+    content: "\e9e6";
+}
+.HMIcons_skipprevious3:before {
+    content: "\ea11";
+}
+.HMIcons_skipnext3:before {
+    content: "\ea0e";
+}
+.HMIcons_shareround:before {
+    content: "\ea0c";
+}
+.HMIcons_snooze:before {
+    content: "\ea13";
+}
+.HMIcons_importround:before {
+    content: "\e9eb";
+}
+.HMIcons_deleteround:before {
+    content: "\e9e1";
+}
+.HMIcons_messageround:before {
+    content: "\e9f6";
+}
+.HMIcons_play2:before {
+    content: "\ea02";
+}
+.HMIcons_pause2:before {
+    content: "\e9ff";
+}
+.HMIcons_skipnext:before {
+    content: "\ea0d";
+}
+.HMIcons_skipnext4:before {
+    content: "\ea0f";
+}
+.HMIcons_skipprevious:before {
+    content: "\ea10";
+}
+.HMIcons_skipprevious4:before {
+    content: "\ea12";
+}
+.HMIcons_stop2:before {
+    content: "\ea15";
+}
+.HMIcons_rewind2:before {
+    content: "\ea06";
+}
+.HMIcons_forward2:before {
+    content: "\e9e7";
+}
+.HMIcons_moon:before {
+    content: "\e9f8";
+}
+.HMIcons_sun:before {
+    content: "\ea16";
+}
+.HMIcons_sunset:before {
+    content: "\ea17";
+}
+.HMIcons_back:before {
+    content: "\e9ca";
+}
+.HMIcons_backandroid:before {
+    content: "\e9cb";
+}
+.HMIcons_updown:before {
+    content: "\ea21";
+}
+.HMIcons_leftright:before {
+    content: "\e9ec";
+}
+.HMIcons_upsm:before {
+    content: "\ea22";
+}
+.HMIcons_downsm:before {
+    content: "\e9e2";
+}
+.HMIcons_rightsm:before {
+    content: "\ea07";
+}
+.HMIcons_leftsm:before {
+    content: "\e9ed";
+}
+.HMIcons_cancel:before {
+    content: "\e9dc";
+}
+.HMIcons_select:before {
+    content: "\ea09";
+}
+.HMIcons_timeright:before {
+    content: "\ea1a";
+}
+.HMIcons_timeleft:before {
+    content: "\ea19";
+}
+.HMIcons_trendbottom:before {
+    content: "\ea1b";
+}
+.HMIcons_trenddown:before {
+    content: "\ea1c";
+}
+.HMIcons_trendstable:before {
+    content: "\ea1d";
+}
+.HMIcons_trendup:before {
+    content: "\ea1f";
+}
+.HMIcons_trendtop:before {
+    content: "\ea1e";
+}
+.HMIcons_videoback:before {
+    content: "\ea23";
+}
+.HMIcons_warning3:before {
+    content: "\ea26";
+}
+.HMIcons_stock_calorie:before {
+    content: "\ea7b";
+}
+.HMIcons_babyphone:before {
+    content: "\ea2a";
+}
+.HMIcons_bzzzit:before {
+    content: "\ea2b";
+}
+.HMIcons_doctor:before {
+    content: "\ea2c";
+}
+.HMIcons_eye:before {
+    content: "\ea2d";
+}
+.HMIcons_eye2:before {
+    content: "\ea2e";
+}
+.HMIcons_eyeclose:before {
+    content: "\ea2f";
+}
+.HMIcons_humidity:before {
+    content: "\ea31";
+}
+.HMIcons_language:before {
+    content: "\ea32";
+}
+.HMIcons_location2:before {
+    content: "\ea33";
+}
+.HMIcons_lotus:before {
+    content: "\ea34";
+}
+.HMIcons_mappoint:before {
+    content: "\ea35";
+}
+.HMIcons_message3:before {
+    content: "\ea36";
+}
+.HMIcons_news:before {
+    content: "\ea37";
+}
+.HMIcons_noise:before {
+    content: "\ea38";
+}
+.HMIcons_paperclip:before {
+    content: "\ea39";
+}
+.HMIcons_piano:before {
+    content: "\ea3a";
+}
+.HMIcons_pill:before {
+    content: "\ea3b";
+}
+.HMIcons_radio:before {
+    content: "\ea3c";
+}
+.HMIcons_aura:before {
+    content: "\ea29";
+}
+.HMIcons_home:before {
+    content: "\ea30";
+}
+.HMIcons_scale1:before {
+    content: "\ea3d";
+}
+.HMIcons_scale2:before {
+    content: "\ea3e";
+}
+.HMIcons_scale3:before {
+    content: "\ea3f";
+}
+.HMIcons_sendandroid:before {
+    content: "\ea40";
+}
+.HMIcons_sport:before {
+    content: "\ea41";
+}
+.HMIcons_temperature:before {
+    content: "\ea42";
+}
+.HMIcons_thumbdown:before {
+    content: "\ea43";
+}
+.HMIcons_thumbup:before {
+    content: "\ea44";
+}
+.HMIcons_trend:before {
+    content: "\ea45";
+}
+.HMIcons_zen:before {
+    content: "\ea46";
+}
+.HMIcons_badminton:before {
+    content: "\ea47";
+}
+.HMIcons_baseball:before {
+    content: "\ea48";
+}
+.HMIcons_basketball:before {
+    content: "\ea49";
+}
+.HMIcons_bike:before {
+    content: "\ea4a";
+}
+.HMIcons_bike2:before {
+    content: "\ea4b";
+}
+.HMIcons_bmx:before {
+    content: "\ea4c";
+}
+.HMIcons_bodyboard:before {
+    content: "\ea4d";
+}
+.HMIcons_boxing:before {
+    content: "\ea4e";
+}
+.HMIcons_climbing:before {
+    content: "\ea4f";
+}
+.HMIcons_custom:before {
+    content: "\ea50";
+}
+.HMIcons_dance:before {
+    content: "\ea51";
+}
+.HMIcons_elliptical:before {
+    content: "\ea52";
+}
+.HMIcons_fencing:before {
+    content: "\ea53";
+}
+.HMIcons_fitness:before {
+    content: "\ea54";
+}
+.HMIcons_football:before {
+    content: "\ea55";
+}
+.HMIcons_frisbee:before {
+    content: "\ea56";
+}
+.HMIcons_golf:before {
+    content: "\ea57";
+}
+.HMIcons_handball:before {
+    content: "\ea58";
+}
+.HMIcons_hike:before {
+    content: "\ea59";
+}
+.HMIcons_hiphop:before {
+    content: "\ea5a";
+}
+.HMIcons_hockey:before {
+    content: "\ea5b";
+}
+.HMIcons_horseriding:before {
+    content: "\ea5c";
+}
+.HMIcons_icehockey:before {
+    content: "\ea5d";
+}
+.HMIcons_iceskate:before {
+    content: "\ea5e";
+}
+.HMIcons_kitesurf:before {
+    content: "\ea5f";
+}
+.HMIcons_martialarts:before {
+    content: "\ea60";
+}
+.HMIcons_muaythai:before {
+    content: "\ea61";
+}
+.HMIcons_pilates:before {
+    content: "\ea62";
+}
+.HMIcons_pingpong:before {
+    content: "\ea63";
+}
+.HMIcons_rowing:before {
+    content: "\ea64";
+}
+.HMIcons_rugby:before {
+    content: "\ea65";
+}
+.HMIcons_run2:before {
+    content: "\ea66";
+}
+.HMIcons_skate:before {
+    content: "\ea67";
+}
+.HMIcons_skateboard:before {
+    content: "\ea68";
+}
+.HMIcons_ski:before {
+    content: "\ea69";
+}
+.HMIcons_skydiving:before {
+    content: "\ea6a";
+}
+.HMIcons_sleep:before {
+    content: "\ea6b";
+}
+.HMIcons_snowboard:before {
+    content: "\ea6c";
+}
+.HMIcons_soccer:before {
+    content: "\ea6d";
+}
+.HMIcons_squash:before {
+    content: "\ea6e";
+}
+.HMIcons_surfing:before {
+    content: "\ea6f";
+}
+.HMIcons_swim:before {
+    content: "\ea70";
+}
+.HMIcons_tennis:before {
+    content: "\ea71";
+}
+.HMIcons_volley:before {
+    content: "\ea72";
+}
+.HMIcons_walk:before {
+    content: "\ea73";
+}
+.HMIcons_waterpolo:before {
+    content: "\ea74";
+}
+.HMIcons_weightlifting:before {
+    content: "\ea75";
+}
+.HMIcons_windsurf:before {
+    content: "\ea76";
+}
+.HMIcons_wrestling:before {
+    content: "\ea77";
+}
+.HMIcons_yoga:before {
+    content: "\ea78";
+}
+.HMIcons_zumba:before {
+    content: "\ea79";
+}
+
+0
+
